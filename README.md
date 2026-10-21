@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Divyansh Pandey</h1>
+<h1 align="center">Hi , I'm Divyansh Pandey</h1>
 
 
 <p align="center">
@@ -17,24 +17,24 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 Hey! I'm Divyansh Pandey, an MCA (AI & ML) student at Invertis University with a growing interest in Data Analytics, Business Intelligence, and Data Science.
 
 I enjoy exploring datasets, finding meaningful patterns, and presenting information in a way that helps people understand data better. I'm building my skills through hands-on practice, dashboard development, Python notebooks, and personal projects.
 
-- 🎓 **Education:** MCA (AI & ML), expected graduation in 2028
-- 📊 **Career Focus:** Data Analytics and Business Intelligence
-- 🛠️ **Working With:** Excel, SQL, Python, Power BI, and Jupyter Notebook
-- 🌱 **Currently Learning:** Data analysis, data visualization, SQL queries, and Python libraries
-- 🔍 **Interests:** Data-driven decision-making, healthcare analytics, and real-world problem-solving
-- 🚀 **Goal:** Build practical projects and grow into a skilled Data Analyst, with an interest in Data Science.
+-  **Education:** MCA (AI & ML), expected graduation in 2028
+-  **Career Focus:** Data Analytics and Business Intelligence
+-  **Working With:** Excel, SQL, Python, Power BI, and Jupyter Notebook
+-  **Currently Learning:** Data analysis, data visualization, SQL queries, and Python libraries
+-  **Interests:** Data-driven decision-making, healthcare analytics, and real-world problem-solving
+-  **Goal:** Build practical projects and grow into a skilled Data Analyst, with an interest in Data Science.
 
 I believe in learning by doing, improving one project at a time, and building a strong foundation rather than just collecting tools.
 
 ---
 
-## 🧰 Tech Stack & Tools
+## Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -48,7 +48,7 @@ I believe in learning by doing, improving one project at a time, and building a 
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
 </p>
 
-### 📚 What I'm Practicing
+###  What I'm Practicing
 
 - **Excel:** Data cleaning, PivotTables, charts, and interactive dashboards
 - **SQL:** Querying data, filtering, aggregation, and joins as I progress
@@ -60,18 +60,18 @@ I believe in learning by doing, improving one project at a time, and building a 
 
 ---
 
-## 📂 Projects & Learning
+##  Projects & Learning
 
 I'm gradually building a portfolio that demonstrates my practical skills.
 
-- 📊 **Excel Dashboards:** Exploring datasets and presenting insights through charts, PivotTables, and dashboards.
-- 🐍 **Python Assignments:** Practicing programming fundamentals and NumPy through Jupyter notebooks.
-- 🏥 **Healthcare Analytics:** Exploring hospital operations data and dashboard design.
-- 📈 **Future Projects:** SQL analysis and Power BI reports using real-world datasets.
+-  **Excel Dashboards:** Exploring datasets and presenting insights through charts, PivotTables, and dashboards.
+-  **Python Assignments:** Practicing programming fundamentals and NumPy through Jupyter notebooks.
+-  **Healthcare Analytics:** Exploring hospital operations data and dashboard design.
+-  **Future Projects:** SQL analysis and Power BI reports using real-world datasets.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DivyanshPandey523&show_icons=true&theme=tokyonight&hide_border=true" alt="Divyansh's GitHub Stats" width="48%"/>
@@ -86,7 +86,7 @@ I'm gradually building a portfolio that demonstrates my practical skills.
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DivyanshPandey523&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
