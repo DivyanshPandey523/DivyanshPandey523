@@ -1,9 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Divyansh Pandey</h1>
 
-<h3 align="center">
-  MCA (AI & ML) Student | Aspiring Data Analyst | Data-Driven Thinker 📊
-</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Exploring+Data+Analytics+%26+AI%2FML;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Learning+by+Building+Real+Projects;Turning+Data+into+Meaningful+Insights" alt="Typing SVG" />
