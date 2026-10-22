@@ -10,10 +10,12 @@
   <a href="https://github.com/DivyanshPandey523">
     <img src="https://img.shields.io/badge/GitHub-DivyanshPandey523-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  
+<a href="https://www.linkedin.com/in/divyansh-pandey-789102238/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 </p>
+
 
 ---
 
